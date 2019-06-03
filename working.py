@@ -8,4 +8,5 @@ else:
 	print("git 暂未安装.");
 
 print("查看工作区文件状态.");
+
 status = os.system('git status');
